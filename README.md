@@ -1,62 +1,80 @@
-<div align="center">
-  <h1>Welcome to My GitHub Profile! 👋</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F75C7E&width=435&lines=Full+Stack+Developer;Python+%7C+Django+%7C+Java+%7C+C%23;Mobile+App+Development+Enthusiast;Database+Integration+%7C+REST+APIs;Open+Source+Contributor" alt="Typing SVG" />
-</div>
-
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Zaben&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Mohammad-Zaben&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammad-Zaben&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-
-Hi there! 👋 I'm **Mohammad Zaben**, a passionate developer with expertise in **mobile application development**, **web development**, **full-stack development**, and more! My projects include interactive user interfaces, robust database integrations, and efficient API solutions.  
-
-Feel free to explore 🔭 my repositories and contribute to their development. Your feedback and suggestions are always appreciated! 🤝💬  
-
----
-
-## 🛠️ Skills & Technologies
+<!-- Profile README for Ahmad Joumah -->
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Mobile Development" />
-
-</div>
-
-
-## 📫 How to Reach Me:
-
-- **Email:** [mohammad.nail.zaben@gmail.com](mailto:mohammad.nail.zaben@gmail.com)  
-- **LinkedIn:** [Mohammad Zaben](https://www.linkedin.com/in/mohammad-zaben-baa74a2a4)  
-- **Facebook:** [Mohammad Zaben](https://www.facebook.com/profile.php?id=100009271628053)  
-- **Instagram:** [@mohammed_khansa](https://www.instagram.com/mohammed_khansa)
-
----
-
-<div align="center">
-  <img align="right" alt="Coding" width="600" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O3hycoaa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&width=650&lines=AI+Engineer+|+Computer+Vision+|+NLP+Researcher;ASP.NET+Expert+|+Python+|+C%23+|+C%2B%2B;R%26D+Leader+|+Software+Architect+|+Team+Mentor" alt="Typing SVG" />
 </div>
 
 ---
 
-<div align="center">
-  <img align="right" alt="Coding" width="500" src="https://i.gifer.com/origin/24/2439879c1805a9adceb43ebe5cf215e1_w200.gif">
-</div>
+<h1 align="center">👋 Hello World! I'm Ahmad Joumah</h1>
 
+<p align="center">
+  <b>AI Engineer | Robotics & Computer Vision Researcher | Software Architect</b><br>
+  <i>Building intelligent systems that matter</i>
+</p>
+
+---
+
+### 🧠 About Me
+
+🔬 Passionate AI engineer and NLP researcher with deep focus on **Robotics**, **computer vision**,  and **Deep learning**.  
+🧱 Senior software AI architect and backend engineer with 10+ years of experience in **ASP.NET**, **Python**, and **enterprise solutions**.  
+🧭 Project leader and mentor, delivering research-driven innovation across academia and industry.  
+🌍 Currently based in **Gaziantep, Turkey**, collaborating on international R&D projects in humanitarian tech and applied AI.
+
+---
+
+### 🚀 Tech Stack & Toolbelt
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**AI & Research**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-BERT-yellowgreen?style=for-the-badge)
+
+**Databases & Backend**
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+
+
+### 📁 Featured Projects
+
+🚧 *Coming Soon: Forensic Face Simulation with StyleGAN2 and cGAN*  
+🔍 *Smart Search System for Humanitarian Aid Database*  
+🧬 *Postmortem-to-Antemortem Image Matching using Triplet Networks*
+🔍 *Visual Place Recognition* 
+> ⭐ *Follow to stay updated on upcoming open-source AI & Robotics research releases!*
+
+---
+
+### 🧭 Let's Connect
+
+📧 Email: [ahmad.joumah@gmail.com](mailto:ahmad.joumah@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/ahmadjoumah](https://linkedin.com/in/ahmadjoumah)  
+🌍 Location: Gaziantep, Turkey
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <br><br>
+  <i>“Strive not to be a success, but rather to be of value.” — Albert Einstein</i>
+</div>
