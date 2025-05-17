@@ -55,11 +55,15 @@
 
 ### 📁 Featured Projects
 
-🚧 *Coming Soon: Forensic Face Simulation with StyleGAN2 and cGAN*  
-🔍 *Smart Search System for Humanitarian Aid Database*  
-🧬 *Postmortem-to-Antemortem Image Matching using Triplet Networks*  
-🔍 *Visual Place Recognition* 
+### 📁 Featured Projects
+
+🚧 *Coming Soon: Forensic Face Simulation using StyleGAN2 and cGAN*  
+🔍 *Intelligent Search System for Humanitarian Aid Databases*  
+🧬 *Postmortem-to-Antemortem Face Matching with Triplet Networks*  
+🔍 *Hierarchical Image Search System for Autonomous Mini Robots*  
+🔍 *Robust Object Detection and Recognition in Open Environments*  
 > ⭐ *Follow to stay updated on upcoming open-source AI & Robotics research releases!*
+
 
 ---
 
