@@ -1,87 +1,82 @@
-<h1 align="center">Hi, I'm Ahmad Joumah 👋</h1>
-
-<h3 align="center">
-  Artificial Intelligence Engineer • Robotics & Computer Vision Researcher • NLP Expert • Software Engineer
-</h3>
-
-<p align="center">
-  <b>AI & Robotics | Computer Vision | Natural Language Processing | Software Architecture | Research & Innovation</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=08F7FE&vCenter=true&width=700&lines=AI+Engineer+%7C+Computer+Vision+%7C+NLP;R%26D+Manager+%7C+Team+Leader+%7C+Project+Manager;Python+%7C+C%23+%7C+C%2B%2B+%7C+ASP.NET+%7C+SQL;Turning+Research+into+Real-World+Intelligent+Systems" />
-</p>
-
----
-
-### 🧠 Who Am I?
-
-I'm **Ahmad Joumah**, an AI engineer and software architect based in Gaziantep, Turkey 🇹🇷.  
-With a strong foundation in **Artificial Intelligence, Robotics, and Computer Vision**, I specialize in:
-
-- 🧠 **AI Research & Development** – turning cutting-edge research into working prototypes  
-- 🤖 **Robotics & Computer Vision Systems** – including postmortem image recognition, facial analysis, and image clustering  
-- 🗣️ **Natural Language Processing** – developing text understanding tools and intelligent assistants  
-- 🛠 **Full-stack Software Engineering** – architecting secure and scalable enterprise systems  
-- 📊 **Data Systems** – from collection and validation to analytics and visualization  
-- 👨‍🏫 **Leadership Roles** – as a Project Manager, R&D Lead, and Team Mentor
-
----
-
-### 💻 Technologies & Tools
-
-#### 🧠 AI / ML / CV / NLP
-`Deep Learning` • `OpenCV` • `TensorFlow` • `PyTorch` • `Transformers` • `NLP` • `Triplet Networks` • `GANs`
-
-#### 👨‍💻 Programming Languages
-`Python` • `C#` • `C++` • `ASP.NET` • `JavaScript` • `HTML/CSS`
-
-#### 🗃️ Databases
-`PostgreSQL` • `SQL Server` • `MySQL` • `SQLite` • `MongoDB`
-
-#### 📊 Data & Visualization
-`Power BI` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Excel Reporting`
-
-#### 🔧 Dev Tools
-`Git` • `Docker` • `Linux` • `Jupyter Notebook` • `Visual Studio` • `VS Code`
-
----
-
-### 📚 Experience Snapshot
-
-- 👨‍🔬 **AI Researcher** @ Hasan Kalyoncu University – developing advanced computer vision & clustering systems  
-- 📊 **Information Management Manager** – leading data quality and visualization systems at humanitarian NGOs  
-- 🏗️ **Software Developer & Team Leader** – designing ASP.NET enterprise apps for governments in Saudi Arabia  
-- 🧪 **R&D Innovator** – worked on neural-based face recognition, digital identity, and image clustering
-
----
-
-### 🏆 Highlights
-
-- 🏅 **Master of Computer Science**, Hasan Kalyoncu University (2023)  
-- 📄 Published Author: "Clustering Method for Large-Scale Database Images", 2023  
-- 🥇 Hasan Kalyoncu Award for Breakthrough Research (2021)  
-- 🧠 Developed facial recognition systems using neural networks since 2007  
-- 🔬 Designed multiple AI prototypes for real-world humanitarian and academic applications  
-
----
-
-### 📫 Connect With Me
-
-- 📧 Email: [ahmad.joumah@gmail.com](mailto:ahmad.joumah@gmail.com)  
-- 🌐 LinkedIn: [Ahmad Joumah](https://www.linkedin.com/in/ahmadjoumah)  
-- 📍 Location: Gaziantep, Turkey  
-- ☎️ Phone: +90 537 940 97 14  
-
----
+<!-- Profile README for Ahmad Joumah -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadjoumah&show_icons=true&theme=radical&count_private=true&hide_border=false" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadjoumah&theme=radical&hide_border=false" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadjoumah&layout=compact&theme=radical&hide_border=false" height="160px"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=680&lines=%20AI+Engineer+%7C+Computer+Vision+%7C+Robotics+Researcher;Python+%7C+C%2B%2B+%7C+ASP.NET+Expert+%7C+C%23;R%26D+Manager+%7C+Software+Architect+%7C+Team+Mentor" alt="Typing SVG" />
 </div>
 
 ---
 
-> _"Building intelligent systems that bridge the gap between theory and impact."_  
-> — Ahmad Joumah
+<h1 align="center">👋 Welcome to! Ahmad Joumah's Profile</h1>
+
+<p align="center">
+  <b>AI Engineer | Robotics & Computer Vision Researcher | Software Architect</b><br>
+  <i>Building intelligent systems that matter</i>
+</p>
+
+---
+
+### 🧠 About Me
+
+🔬 Passionate AI engineer and NLP researcher with deep focus on **Robotics**, **computer vision**,  and **Deep learning**.  
+🧱 Senior software AI architect and backend engineer with 18+ years of experience in **Python**, **ASP.NET**, and **enterprise solutions**.  
+🧭 Project leader and mentor, delivering research-driven innovation across academia and industry.  
+🌍 Currently based in **Gaziantep, Turkey**, collaborating on international R&D projects in humanitarian tech and applied AI.
+
+---
+
+### 🚀 Tech Stack & Toolbelt
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**AI & Research**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-BERT-yellowgreen?style=for-the-badge)
+
+**Databases & Backend**
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+
+
+### 📁 Featured Projects
+
+🚧 *Coming Soon: Forensic Face Simulation using StyleGAN2 and cGAN*  
+🔍 *Intelligent Search System for Humanitarian Aid Databases*  
+🧬 *Postmortem-to-Antemortem Face Matching with Triplet Networks*  
+🔍 *Hierarchical Image Search System for Autonomous Mini Robots*  
+🔍 *Robust Object Detection and Recognition in Open Environments*  
+> ⭐ *Follow to stay updated on upcoming open-source AI & Robotics research releases!*
+
+
+---
+
+### 🧭 Let's Connect
+
+📧 Email: [ahmad.joumah@gmail.com](mailto:ahmad.joumah@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/ahmadjoumah](https://linkedin.com/in/ahmadjoumah)  
+🌍 Location: Gaziantep, Turkey
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <br><br>
+  <i>“Strive not to be a success, but rather to be of value.” — Albert Einstein</i>
+</div>
