@@ -6,7 +6,7 @@
 
 ---
 
-<h1 align="center">👋 Hello World! I'm Ahmad Joumah</h1>
+<h1 align="center">👋 Welcome to! Ahmad Joumah's Profile</h1>
 
 <p align="center">
   <b>AI Engineer | Robotics & Computer Vision Researcher | Software Architect</b><br>
@@ -18,7 +18,7 @@
 ### 🧠 About Me
 
 🔬 Passionate AI engineer and NLP researcher with deep focus on **Robotics**, **computer vision**,  and **Deep learning**.  
-🧱 Senior software AI architect and backend engineer with 10+ years of experience in **ASP.NET**, **Python**, and **enterprise solutions**.  
+🧱 Senior software AI architect and backend engineer with 18+ years of experience in **Python**, **ASP.NET**, and **enterprise solutions**.  
 🧭 Project leader and mentor, delivering research-driven innovation across academia and industry.  
 🌍 Currently based in **Gaziantep, Turkey**, collaborating on international R&D projects in humanitarian tech and applied AI.
 
