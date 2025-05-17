@@ -1,8 +1,7 @@
 <!-- Profile README for Ahmad Joumah -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=650&lines= 
- AI+Engineer+|+Computer+Vision+|+Robotics+Researcher;ASP.NET+Expert+|+Python+|+C%23+|+C%2B%2B;R%26D+Leader+|+Software+Architect+|+Team+Mentor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=650&lines=AI+Engineer+|+Computer+Vision+|+Robotics+Researcher;ASP.NET+Expert+|+Python+|+C%23+|+C%2B%2B;R%26D+Leader+|+Software+Architect+|+Team+Mentor" alt="Typing SVG" />
 </div>
 
 ---
