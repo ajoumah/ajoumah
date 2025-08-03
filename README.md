@@ -57,9 +57,9 @@
 
 ### 📁 Featured Projects
 
-🚧  
+
 🔍 *Intelligent Search System for Humanitarian Aid Databases*  
-🧬
+
 🔍 *Hierarchical Image Search System for Autonomous Mini Robots*  
 🔍 *Robust Object Detection and Recognition in Open Environments*  
 > ⭐ *Follow to stay updated on upcoming open-source AI & Robotics research releases!*
